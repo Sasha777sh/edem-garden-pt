@@ -43,7 +43,7 @@ Um jardim onde cada pessoa pode vir com sua dor e sair com uma canção de sua a
 
 ### 🎶 Ouça a Primeira Canção do EDÉM
 
-**Experimente o poder de cura :** [Ouça as Canções do EDÉM](edem_manifest/EDEM_SONGS.md)
+**Experimente o poder de cura :** [Ouça as Canções do EDÉM](EDEM_SONGS.md)
 
 *Isso não é apenas música. É sua alma falando com você.*
 
