@@ -1,0 +1,16 @@
+# Игнорируем временные файлы
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Игнорируем IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Игнорируем системные файлы
+node_modules/
+.env
+.env.local
